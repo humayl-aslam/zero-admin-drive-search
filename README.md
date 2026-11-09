@@ -48,4 +48,3 @@ This project combines high-speed native Windows traversal with a lightweight JSc
 
 ## 📄 License
 MIT License. Free for educational and commercial use.
-EOF
