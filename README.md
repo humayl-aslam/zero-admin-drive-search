@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 📚 Zero-Admin SMB Resource Finder & Catalog
 
 A high-performance, zero-installation search engine and directory navigator designed for locked-down corporate and educational network shares (SMB). 
